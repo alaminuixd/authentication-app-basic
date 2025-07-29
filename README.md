@@ -6,5 +6,5 @@
 
 ```bash
 cd backend
-npm install express mongoose dotenv cors cookie-parser jsonwebtoken`
+npm install`
 ```
